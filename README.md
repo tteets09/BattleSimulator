@@ -68,10 +68,10 @@ the command:</p>
 
 <pre>
 HTTPS users: 
-git clone https://gitlab.cs.uno.edu/tmteets/battle_simulator.git
+git clone https://github.com/tteets09/BattleSimulator.git
 
 SSH users:
-git clone git@gitlab.cs.uno.edu:tmteets/battle_simulator.git
+git clone git@github.com:tteets09/BattleSimulator.git
 </pre>
 
 <p>After this you will want to compile all the java files from the repo that 
