@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Game","l":"Battle"},{"p":"Entities","l":"Enemy"},{"p":"Entities","l":"Entity"},{"p":"Tests","l":"EntityTest"},{"p":"<Unnamed>","l":"Main"},{"p":"Entities","l":"Player"},{"p":"Game","l":"SaveLoad"},{"p":"StandardIO","l":"StdDraw"},{"p":"StandardIO","l":"StdIn"}];updateSearchResults();
