@@ -77,7 +77,7 @@ git clone git@gitlab.cs.uno.edu:tmteets/battle_simulator.git
 <p>After this you will want to compile all the java files from the repo that 
 you just cloned. To do this you will use the command:</p>
 
-<pre>javac *.java</pre>
+<pre>javac *.java ./Entities/*.java ./Game/*.java ./StandardIO/*.java</pre>
 
 <p>After you finish this last step, congratulations! You have completed the installation of 
 your brand-new battle simulator game.</p>
@@ -91,10 +91,20 @@ to that as well!</p>
 <p>To start running your new game you will want to run the command:</p>
 
 <pre>
-java Game
+java Main
 </pre>
 
 ## Usage
 
+<p> Now that you are running the game it will first ask you to enter a name for your character. All names are required to be 10 or less characters and the program will be sure that the name you enter is just that.</p>
+    
+<p> Now that you have entered a name IT IS TIME TO PLAYYYY!. There are 4 actions you can do: </p>
+
+| Actions   | Explanation                                                              |
+| :-------- | :----------------------------------------------------------------------- |
+| a: attack | This will allow you to attack the enemy                                  |
+| h: heal   | If you have enough health potions this will allow yout character to heal |
+| s: save   | This will allow you to save the game in its current state                |
+| l: load   | If you have a save file then you can load that game back up              |
 
 
