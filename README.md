@@ -1,5 +1,5 @@
 <div align="center" id="top">
-    <h3>Created by: Tony Teets and Skylar Nguyen</h3>
+    <h3>Created by: Tony Teets</h3>
     <img src="https://cdn.iconscout.com/icon/free/png-256/sword-1777408-1512000.png" width="128px" alt="Swords crossed">
     <h1 align="center">Battle Simulator</h1>
     
@@ -44,7 +44,7 @@ yourself when you start getting low. Make sure you keep that health up!</p>
 
 ### Features
 <ul>
-    <li>{number tbd} different types of enemies</li>
+    <li>7 different types of enemies</li>
     <li>Health potions</li>
     <li>Damage upgrades through leveling</li>
     <li>Health upgrades through leveling</li>
